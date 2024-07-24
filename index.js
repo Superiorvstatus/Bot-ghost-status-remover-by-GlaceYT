@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Developed by $uperior","Divinity"];
 
 
 let currentIndex = 0;
